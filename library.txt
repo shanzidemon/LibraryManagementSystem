@@ -1,0 +1,3 @@
+1,Kuratoli Library,2012,15000,Kuratoli,Dhaka
+2,Basundha Library,2005,20000,Baundhara R/A,Dhaka
+3,AIUB Library,2004,30000,C Builiding,AiUB,Kuratoli,Dhaka
