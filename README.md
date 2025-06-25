@@ -76,9 +76,3 @@ Data is stored in comma-separated format:
 Run the program:
    ```bash
 javac Start.java
-
-
-
-
-
-
