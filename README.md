@@ -71,7 +71,7 @@ Data is stored in comma-separated format:
 1. Clone or download the project
 2. Compile all `.java` files:
    ```bash
-   javac *.java
+   javac Start.java
 
 Run the program:
 java Start
