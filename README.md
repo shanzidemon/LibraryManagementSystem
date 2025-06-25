@@ -74,7 +74,7 @@ Data is stored in comma-separated format:
    javac Start.java
 
 Run the program:
-java Start
+javac Start.java
 
 
 
